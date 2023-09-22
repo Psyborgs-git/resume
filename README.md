@@ -1,17 +1,15 @@
-Jainam Shah (Jae)
-Full Stack Developer
+Jainam Shah (Jae)<br>
+<em>Full Stack Developer<br></em>
 
-\n
+
 ## CONTACT INFO:
-Surat City, GJ 395007
-IN: +91 9099981021
-US/CA: +1 339 (707) 5095
+Surat City, GJ 395007<br>
+IN: +91 909-998-1021<br>
+US/CA: +1 339 (707) 5095<br>
 
-\n
-Email: sjainam74@icloud.com
-vCard: https://card.jaesmetaverse.com
+Email: sjainam74@icloud.com<br>
+vCard: https://card.jaesmetaverse.com<br>
 
-\n
 ## PROFESSIONAL SUMMARY
 
 As a highly skilled and experienced Software Developer with over 4+ years of professional experience, I am proficient in a wide range of programming languages and technologies including Python, MySQL, AJAX, TypeScript, JavaScript, Java, and multiple frameworks like Daphne, React, Django, Nginx, Apache, and more. Strong understanding of web technologies such as web services, AWS, GIT, REST & GraphQL APIs, Docker, and Node.js with the Express framework, with additional expertise in Cloud Architecture. Proven track record of delivering high-performance and scalable applications on time and within budget. Strong problem-solving skills and ability to work well in a team environment.
@@ -55,7 +53,7 @@ As a highly skilled and experienced Software Developer with over 4+ years of pro
 
 ## PROJECTS
 
-**QuickStores — E-commerce platform**
+**QikStores — E-commerce platform**
 - A web application for online shopping using Django, Python, React, and AWS.
 - Implemented features such as user authentication, product listing, and cart management.
 
