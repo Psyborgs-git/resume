@@ -1,5 +1,7 @@
 Jainam Shah (Jae)
 Full Stack Developer
+
+## CONTACT INFO:
 Surat City, GJ 395007
 IN: +91 9099981021
 US/CA: +1 339 (707) 5095
