@@ -1,14 +1,17 @@
 Jainam Shah (Jae)
 Full Stack Developer
 
+\n
 ## CONTACT INFO:
 Surat City, GJ 395007
 IN: +91 9099981021
 US/CA: +1 339 (707) 5095
 
+\n
 Email: sjainam74@icloud.com
 vCard: https://card.jaesmetaverse.com
 
+\n
 ## PROFESSIONAL SUMMARY
 
 As a highly skilled and experienced Software Developer with over 4+ years of professional experience, I am proficient in a wide range of programming languages and technologies including Python, MySQL, AJAX, TypeScript, JavaScript, Java, and multiple frameworks like Daphne, React, Django, Nginx, Apache, and more. Strong understanding of web technologies such as web services, AWS, GIT, REST & GraphQL APIs, Docker, and Node.js with the Express framework, with additional expertise in Cloud Architecture. Proven track record of delivering high-performance and scalable applications on time and within budget. Strong problem-solving skills and ability to work well in a team environment.
